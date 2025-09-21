@@ -6,8 +6,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainLightItalic.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainLightItalic.woff') format('woff');
   font-weight: 300;
-  font-style: Italic;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -15,8 +15,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainRegularItalic.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainRegularItalic.woff') format('woff');
   font-weight: 400;
-  font-style: Italic;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -24,8 +24,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainUltraboldItalic.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainUltraboldItalic.woff') format('woff');
   font-weight: 800;
-  font-style: Italic;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -34,7 +34,7 @@
          url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal; 
-    font-display: swap;
+    /* font-display: swap; */
     
 }
 
@@ -44,8 +44,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainUltrabold.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainUltrabold.woff') format('woff');
   font-weight: 800;
-  font-style: Normal;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -53,8 +53,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainLight.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-PlainLight.woff') format('woff');
   font-weight: 300;
-  font-style: Normal;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 
@@ -67,8 +67,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapLightItalic.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapLightItalic.woff') format('woff');
   font-weight: 300;
-  font-style: Italic;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -76,8 +76,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapRegularItalic.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapRegularItalic.woff') format('woff');
   font-weight: 400;
-  font-style: Italic;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -85,8 +85,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapUltraboldItalic.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapUltraboldItalic.woff') format('woff');
   font-weight: 800;
-  font-style: Italic;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -94,8 +94,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapRegular.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapRegular.woff') format('woff');
   font-weight: 400;
-  font-style: Normal;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -103,8 +103,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapUltrabold.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapUltrabold.woff') format('woff');
   font-weight: 800;
-  font-style: Normal;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 @font-face {
@@ -112,8 +112,8 @@
   src: url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapLight.woff2') format('woff2'),
        url('https://cdn.jsdelivr.net/gh/cvemann/myfonts/PPNeueMachina/PPNeueMachina-InktrapLight.woff') format('woff');
   font-weight: 300;
-  font-style: Normal;
-  font-display: swap;
+  font-style: normal;
+  /* font-display: swap; */
 }
 
 
